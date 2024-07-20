@@ -48,11 +48,11 @@ Para rodar o projeto Le.io localmente, siga os passos abaixo:
    yarn install
    Configure o Ambiente
 
-* Verifique se há algum arquivo de configuração de ambiente necessário, como um arquivo .env. Se houver, crie um arquivo .env com as variáveis de ambiente necessárias conforme as instruções no README ou na documentação do projeto.
+4. **Verifique se há algum arquivo de configuração de ambiente necessário, como um arquivo .env. Se houver, crie um arquivo .env com as variáveis de ambiente necessárias conforme as instruções no README ou na documentação do projeto.**
 
 Inicie o Servidor de Desenvolvimento
 
-* Com todas as dependências instaladas e o ambiente configurado, inicie o servidor de desenvolvimento:
+5. **Com todas as dependências instaladas e o ambiente configurado, inicie o servidor de desenvolvimento:**
 
 bash
 Copiar código
