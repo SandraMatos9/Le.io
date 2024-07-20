@@ -27,8 +27,39 @@ O aplicativo <strong>Le.io</strong> é voltado para organização e leitura de e
 
 ## Instruções de utilização
 
-1. Baixe o código zip do repositório hospedado no Github
-2. Execute o código na sua máquina local
+Para rodar o projeto Le.io localmente, siga os passos abaixo:
+
+1. **Baixe o Código**
+   
+   Baixe o código zip do repositório hospedado no GitHub:
+
+   [Download Código Fonte](https://github.com/SandraMatosTech/Nu-Kenzie/archive/refs/heads/main.zip)
+
+2. **Extraia o Arquivo**
+
+   Extraia o conteúdo do arquivo zip baixado.
+
+3. **Instale as Dependências**
+
+   Navegue até o diretório do projeto extraído e instale as dependências usando o Yarn:
+
+   ```bash
+   cd Nu-Kenzie
+   yarn install
+   Configure o Ambiente
+
+* Verifique se há algum arquivo de configuração de ambiente necessário, como um arquivo .env. Se houver, crie um arquivo .env com as variáveis de ambiente necessárias conforme as instruções no README ou na documentação do projeto.
+
+Inicie o Servidor de Desenvolvimento
+
+* Com todas as dependências instaladas e o ambiente configurado, inicie o servidor de desenvolvimento:
+
+bash
+Copiar código
+npx expo start
+Acesse a Aplicação
+
+Abra o seu navegador e vá para o endereço fornecido pelo Expo para ver a aplicação Le.io rodando localmente.
 
 # Documentação
 
