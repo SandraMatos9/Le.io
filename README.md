@@ -50,16 +50,16 @@ Para rodar o projeto Le.io localmente, siga os passos abaixo:
 
 4. **Verifique se há algum arquivo de configuração de ambiente necessário, como um arquivo .env. Se houver, crie um arquivo .env com as variáveis de ambiente necessárias conforme as instruções no README ou na documentação do projeto.**
 
-Inicie o Servidor de Desenvolvimento
+    Inicie o Servidor de Desenvolvimento
 
 5. **Com todas as dependências instaladas e o ambiente configurado, inicie o servidor de desenvolvimento:**
 
-bash
-Copiar código
-npx expo start
-Acesse a Aplicação
-
-Abra o seu navegador e vá para o endereço fornecido pelo Expo para ver a aplicação Le.io rodando localmente.
+    bash
+    Copiar código
+    npx expo start
+    Acesse a Aplicação
+    
+    Abra o seu navegador e vá para o endereço fornecido pelo Expo para ver a aplicação Le.io rodando localmente.
 
 # Documentação
 
