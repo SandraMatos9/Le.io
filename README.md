@@ -54,8 +54,8 @@ Para rodar o projeto Le.io localmente, siga os passos abaixo:
 
 5. **Com todas as dependências instaladas e o ambiente configurado, inicie o servidor de desenvolvimento:**
 
-    bash
-    Copiar código
+
+     ```bash
     npx expo start
     Acesse a Aplicação
     
