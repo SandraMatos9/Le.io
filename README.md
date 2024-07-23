@@ -58,7 +58,6 @@ Para rodar o projeto Le.io localmente, siga os passos abaixo:
      ```bash
     npx expo start
     Acesse a Aplicação
-    
     Abra o seu navegador e vá para o endereço fornecido pelo Expo para ver a aplicação Le.io rodando localmente.
 
 # Documentação
